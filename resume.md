@@ -1,71 +1,73 @@
-Markdown Resumé
-===============
+Resume
+======
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+Name: Wanlong Gao
+Email: [wanlong.gao@gmail.com](mailto:wanlong.gao@gmail.com)
+Handset: XXXXXXXXXXX
 
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
-
+*   Read Linux related paper (kernel, virtualization and storage)
+*   Chinese Calligraphy
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Linux Kernel Developer** (Fujitsu, 2011.07~present)
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *0day/LKP+(Linux Kernel Performance)*
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   Main developer and the sub-maintainer
+    -   Fix daily bugs and develop new features(like multi-node framework)
+    -   Find and add the useful benchmarks to our framework
 
-*   **\LaTeX\ + pdflatex**
+    *Linux Kernel Virtio*
 
-    *Senior Resumé Maker*, 2008 - 2010
+    -   Implement the virtqueue affinity for virtio-net and virtio-scsi, which
+        improve the performance of them after doing cpu hotplug
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+    -   Help implement the virtio-scsi multi-queue feature, which can improve
+        the performance of virtio-scsi about 30%
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    -   Help review some virtio related patches
 
-    *Web Resumé Intern*, August 2010
+    *QEMU project*
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    *libguestfs project*
 
-*   **Markdown with Pandoc**
+    *LTP(Linux Test Project)*
 
-    *Resumé Architect*, February 2011 - present
 
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+*   **Linux Driver Developer** (Hisense, 2010.07~2011.06)
 
+    *Linux Power managemant and input subsystem driver*
+
+    - Develop and maintain android smartphone power charger driver
+
+    - Develop and maintain android smartphone keypad and touchpad driver
+
+    - Reviewed many upstream input subsystem patches
+
+    - Wrote the device driver-model kerneldoc for upstream kernel
+
+
+Open Source Contribution
+-----------------------
+
+*   *Linux Kernel contribution:*
+
+    <http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=Wanlong>
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
-
-    *B.S. in Submodules*, May 2012
+*   **Northeastern University** (2006~2010, Bachelor)
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
+*   Many years of Linux administrator and development experience (since 2008)
 
 
