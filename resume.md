@@ -19,7 +19,7 @@ Work Experience
 
 *   **Linux Kernel Developer** (Fujitsu, 2011.07~present)
 
-    *0day/LKP+(Linux Kernel Performance)*
+    *0day/LKP+(0day Linux Kernel Performance, Lead by Fengguang Wu)*
 
     - Main developer and the sub-maintainer
 
