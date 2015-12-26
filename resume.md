@@ -17,7 +17,12 @@ Interests
 Work Experience
 ---------------
 
-*   **Linux Kernel Developer** (Fujitsu, 2011.07~present)
+*   **Linux Kernel Developer** (EasyStack, 2015.09~present)
+
+    - Maintain the internal kernel tree
+
+
+*   **Linux Kernel Developer** (Fujitsu, 2011.07~2015.09)
 
     *0day/LKP+(0day Linux Kernel Performance, Lead by Fengguang Wu)*
 
