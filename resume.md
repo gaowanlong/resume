@@ -8,12 +8,6 @@ Blog: [blog.allenx.org](http://blog.allenx.org)
 Handset: 18136850535
 
 
-Interests
----------
-
-*   Read Linux related paper (kernel, virtualization and storage)
-*   Chinese Calligraphy
-
 Work Experience
 ---------------
 
@@ -21,12 +15,16 @@ Work Experience
 
     - Maintain the internal kernel tree
 
+    - Support the Linux system for our clients
+
+    - Develop the upstream openstack/kolla project
+
 
 *   **Linux Kernel Developer** (Fujitsu, 2011.07~2015.09)
 
     *0day/LKP+(0day Linux Kernel Performance, Lead by Fengguang Wu)*
 
-    - Main developer and the sub-maintainer
+    - One of the main developers
 
     - Fix daily bugs and develop new features(like multi-node framework)
 
@@ -114,6 +112,13 @@ Education
 *   **Northeastern University** (2006~2010, Bachelor)
 
 
+Interests
+---------
+
+*   Read Linux related paper (kernel, virtualization and storage)
+*   Chinese Calligraphy
+
+
 Skills
 ------
 
@@ -121,6 +126,4 @@ Skills
 
 *   Good knowledge and experience of Linux Kernel and Virtualization
 
-*   Good knowledge and experience of writing code in C, shell, ruby
-
-*   Can write code in any languages after one day learning :)
+*   Good knowledge and experience of writing code in C, shell, ruby, python
