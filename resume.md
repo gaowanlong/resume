@@ -79,27 +79,32 @@ Work Experience
 Open Source Contribution
 -----------------------
 
-*   *Linux Kernel contribution:*
+*   Linux Kernel contribution: (66 patches)
 
     <http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=Wanlong>
 
-*   *Libguestfs contribution:*
+*   Libguestfs contribution: (74 patches, co-author of virt-sysprep tool)
 
-    <https://github.com/libguestfs/libguestfs/commits/master?author=gaowanlong>
+    <https://github.com/libguestfs/libguestfs/commits/master?author=gaowanlong@cn.fujitsu.com>
 
-*   *LKP+(Linux Kernel Performance) contribution:* (only partly opensourced)
+    <http://libguestfs.org/virt-sysprep.1.html#authors>
+
+*   LKP+(Linux Kernel Performance) contribution: (545 patches for opensource part)
 
     <https://git.kernel.org/cgit/linux/kernel/git/wfg/lkp-tests.git/log/?qt=grep&q=Wanlong>
 
-*   *LTP(Linux Test Project) contribution:*
+*   LTP(Linux Test Project) contribution: (244 patches, co-maitainer)
 
-    <https://github.com/linux-test-project/ltp/commits/master?author=gaowanlong>
+    <https://github.com/linux-test-project/ltp/commits/master?author=gaowanlong@cn.fujitsu.com>
 
-*   *QEMU contribution:*
+    <http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/MAINTAINERS?h=v4.4#n6591>
+
+*   QEMU contribution: (7 patches, NUMA binding feature co-author)
 
     NUMA binding patches: <https://lists.gnu.org/archive/html/qemu-devel/2013-12/msg00568.html>
 
     <http://git.qemu.org/?p=qemu.git&a=search&h=HEAD&st=commit&s=Wanlong>
+
 
 *   *virt-clone contribution:*
 
