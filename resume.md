@@ -11,16 +11,20 @@ Handset: 18136850535
 Work Experience
 ---------------
 
-*   **Linux Kernel Developer** (EasyStack, 2015.09~present)
+*   **Senior Software Engineer** (EasyStack, 2015.09~present)
 
-    - Maintain the internal kernel tree
+    - Maintain the internal Linux Kernel tree
 
     - Support the Linux system for our clients
 
     - Develop the upstream openstack/kolla project
 
+    - Develop the internal distributed storage product
 
-*   **Linux Kernel Developer** (Fujitsu, 2011.07~2015.09)
+    - Contribute to the Ceph project community
+
+
+*   **Linux Software Engineer** (Fujitsu, 2011.07~2015.09)
 
     *0day/LKP+(0day Linux Kernel Performance, Lead by Fengguang Wu)*
 
@@ -63,7 +67,7 @@ Work Experience
     - Add new test cases to improve the coverage of LTP
 
 
-*   **Linux Driver Developer** (Hisense, 2010.07~2011.06)
+*   **Linux Driver Engineer** (Hisense, 2010.07~2011.06)
 
     *Linux Power managemant and input subsystem driver*
 
