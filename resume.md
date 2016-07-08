@@ -114,6 +114,10 @@ Open Source Contribution
 
     <https://git.fedorahosted.org/cgit/python-virtinst.git/log/?qt=grep&q=Wanlong>
 
+*    *OpenStack contribution: (69 commits)*
+
+    <http://stackalytics.com/?metric=commits&project_type=openstack&release=all&user_id=wanlong-gao>
+
 
 Education
 ---------
