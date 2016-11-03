@@ -11,7 +11,7 @@ Handset: 18136850535
 Work Experience
 ---------------
 
-*   **Senior Software Engineer** (EasyStack, 2015.09~present)
+*   **Senior Software Engineer** (EasyStack, 2015.09~2016.09)
 
     - Maintain the internal Linux Kernel tree
 
